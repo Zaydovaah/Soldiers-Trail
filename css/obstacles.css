@@ -1,0 +1,29 @@
+table {
+    text-align: center;
+    border-left: 1px rgb(11, 64, 179) solid;
+    box-sizing: border-box;
+    margin: 0 20px;
+}
+
+th {
+    border-bottom: 1px rgb(11, 64, 179) solid;
+    border-left: 1px rgb(11, 64, 179) solid;
+}
+
+td {
+    border-bottom: 1px rgb(11, 64, 179) solid;
+    border-left: 1px rgb(11, 64, 179) solid;
+}
+
+.edit {
+    color: rgb(9, 48, 73);
+}
+
+.delete {
+    color: rgb(180, 17, 12);
+}
+
+h2 {
+    text-align: center;
+    border-bottom: 1px rgb(11, 64, 179) solid;
+}
